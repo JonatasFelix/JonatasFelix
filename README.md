@@ -6,8 +6,21 @@
     <header>
       <h1 align="center";>Olá, Bem Vindo(a). Eu me chamo Jônatas.</h1>
       <p align="center";>Eu moro em Recife, PE e Estudo Sistemas para Internet.</p> 
-      <div>
-        <p><src="https://github.com/JonatasFelix/JonatasFelix/blob/main/linkedin.png" alt="linkend"></p>
+      <div style="background-color:#0077b7;">
+        <p align="center" style=";">
+          <a href="http://linkedin.com/in/jonatasfelix">
+            <img src="https://github.com/JonatasFelix/JonatasFelix/blob/main/linkedin.png" alt="linkend" width="15px">
+            Linkend
+          </a>
+           <a href="http://linkedin.com/in/jonatasfelix" style="margin-right: 2px;">
+            <img src="https://github.com/JonatasFelix/JonatasFelix/blob/main/linkedin.png" alt="linkend" width="15px">
+            Instagram
+          </a>
+           <a href="http://linkedin.com/in/jonatasfelix">
+            <img src="https://github.com/JonatasFelix/JonatasFelix/blob/main/linkedin.png" alt="linkend" width="15px">
+            Gmail
+          </a>
+        </p>
       </div>
     </header>
   </body>
