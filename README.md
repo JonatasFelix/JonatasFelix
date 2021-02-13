@@ -1,7 +1,14 @@
 <html>
+  <head>
+    <meta name="author" content="JonatasFelix">
+  </head>
   <body>
     <header>
-      <h1 style="text-align: center;">Olá, Bem Vindo(a). Eu me chamo Jônatas</h1>
+      <h1 align="center";>Olá, Bem Vindo(a). Eu me chamo Jônatas.</h1>
+      <p align="center";>Eu moro em Recife, PE e Estudo Sistemas para Internet.</p> 
+      <div>
+        <p><img src="">Twitter</p>
+      </div>
     </header>
   </body>
 </html>
