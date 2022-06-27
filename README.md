@@ -23,7 +23,7 @@
 
 - 👋 Hi, I’m @JonatasFelix
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Systems for internet
+- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas
 - 📫 How to reach me: Insta @JoonFelix
 
 
