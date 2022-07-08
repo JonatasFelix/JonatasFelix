@@ -18,15 +18,23 @@
 <a href="mailto:jonatas.felix2007@gmail.com"><img src="https://camo.githubusercontent.com/4a21774b9d6abd72ff3f8f2abf20cb44d95ea2c8c19b273b9df62a33266d087e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 
-
-
-
 - 👋 Hi, I’m @JonatasFelix
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas
 - 📫 How to reach me: Insta @JoonFelix
 
 
+##
+ 
+  <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height"40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height"40"/>
+  </div>
+
+##
 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasFelix&theme=dark&show_icons=true" />
