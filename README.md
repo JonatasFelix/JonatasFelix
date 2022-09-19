@@ -23,18 +23,15 @@
 <a href="mailto:jonatas.felix2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;"></a>
 </p>
 
-- 👋 Hi, I’m @JonatasFelix
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas
-- 📫 How to reach me: Insta @JoonFelix
+<div align="center" data-sourcepos="14:1-18:124" dir="auto">
+  <h1>Frontend<h1/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,materialui,figma,redux"/>
+  <h1>Backend<h1/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mysql,jest"/>
+<div/>
 
-
-  <div align="center" data-sourcepos="14:1-18:124" dir="auto">
-    <h1>Frontend<h1/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,materialui,figma,redux"/>
-    <h1>Backend<h1/>
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mysql,jest"/>
-  <div/>
+---
+  
 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasFelix&theme=dark&show_icons=true" />
