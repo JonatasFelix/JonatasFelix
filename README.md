@@ -35,6 +35,8 @@
 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasFelix&theme=dark&show_icons=true" />
+  <br>
+  <br>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasFelix&theme=dark&layout=compact" /> 
 </div>
 
